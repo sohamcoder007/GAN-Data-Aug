@@ -1,0 +1,7 @@
+Model: ./classifier_results/trial1/0-500; Accuracy: 0.20469999313354492
+Model: ./classifier_results/trial1/0-1000; Accuracy: 0.37950000166893005
+Model: ./classifier_results/trial1/0-2000; Accuracy: 0.25679999589920044
+Model: ./classifier_results/trial1/500-0; Accuracy: 0.6908000111579895
+Model: ./classifier_results/trial1/500-500; Accuracy: 0.6765999794006348
+Model: ./classifier_results/trial1/500-1000; Accuracy: 0.8195000290870667
+Model: ./classifier_results/trial1/500-2000; Accuracy: 0.7519999742507935
